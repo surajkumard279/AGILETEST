@@ -5,8 +5,8 @@ That regenerates every .html page. Prices, dates and contact details that
 the browser needs are in assets/js/config.js.
 """
 
-BRAND = "Your Brand"
-EMAIL = "training@yourdomain.com"
+BRAND = "ATECHNOLOGIES"
+EMAIL = "training@ATECHNOLOGIES.com"
 WHATSAPP = "910000000000"
 CURRENCY = "₹"
 
